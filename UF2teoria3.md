@@ -144,6 +144,7 @@ El preu mínim per producte és de 10 cèntims.
 <br>
 <br>
 <br>
+
 ### Classes d'equivalència vàlides (1 i 5):
 
 Ara haurem de dissenyar els casos de prova per cobrir totes les classes vàlides (1).
@@ -169,6 +170,7 @@ Ara haurem de dissenyar els casos de prova per cobrir totes les classes vàlides
 <br>
 <br>
 <br>
+
 ### Classes d'equivalència no vàlides:
 
 Ara generarem proves per cobrir totes les calsses de proves no vàlides (2 a 4 i 6 a 8).
@@ -201,6 +203,7 @@ Ara generarem proves per cobrir totes les calsses de proves no vàlides (2 a 4 i
 <br>
 <br>
 <br>
+
 ### Anàlisi dels valors límits:
 
 | Paràmetre entrada | Regla a aplicar | Classes vàlides | Classes no vàlides |
