@@ -48,10 +48,10 @@ class pizzeriaPepeTest {
     }
     
     
-    @Test //Valor no és un número
+    @Test//Valor no és un número
     void prova4() {
-        boolean pot = pizzeriaPepe.potCarregar("cinc");
-        Assertions.assertFalse(pot);
-    }
+        Exception exception = Assertions.assertThrows(NumberFormatException.class, () -> {
+            pizzeriaPepe.potCarregar(Integer.parseInt("cinc"));
+        });
 }
 ```
